@@ -8,4 +8,5 @@ import { Movie } from '../movie';
 })
 export class MovieDetailComponent {
 @Input () movie?:Movie;
+
 }
